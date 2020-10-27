@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Open Spotify</string>
+    <string name="action_about">About</string>
+    <string name="geckoview_config_file_name">ir.behizz.openspotify-geckoviewconfig.yaml</string>
+</resources>

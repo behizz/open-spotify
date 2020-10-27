@@ -1,0 +1,6 @@
+prefs:
+  layout.css.devPixelsPerPx: "1.0"
+  media.eme.enabled: true
+  general.useragent.override: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.62 Safari/537.36"
+  media.mediadrm-widevinecdm.visible: true
+  media.eme.encrypted-media-encryption-scheme.enabled: true
